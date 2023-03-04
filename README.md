@@ -4,6 +4,8 @@ This is a blank pnpm starter turborepo.
 
 ## Usage
 
+To use this starter, run the following command:
+
 ```bash
 # Clone this starter then cd into it
 $ npx degit JustineLicuanan/turborepo-blank-starter my-new-project
