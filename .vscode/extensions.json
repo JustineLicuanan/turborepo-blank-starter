@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "Vue.volar",
+    "dbaeumer.vscode-eslint",
+    "folke.vscode-monorepo-workspace",
+    "bradlc.vscode-tailwindcss"
+  ],
+  "unwantedRecommendations": [
+    "vscode.typescript-language-features",
+    "Vue.vscode-typescript-vue-plugin"
+  ]
+}
